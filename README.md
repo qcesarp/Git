@@ -2,5 +2,5 @@
 
 un poco de texto
 
-[un enlace](www.github.com)
+[un enlace](github.com)
 
